@@ -8,6 +8,7 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 <img width="1131" alt="Screen Shot 2023-12-04 at 8 48 33 PM" src="https://github.com/cmfyoung/work-day-scheduler/assets/150183426/011e5ff6-0f87-4be8-b617-d98f66a73edf">
 
 ### Deployment Link
+https://cmfyoung.github.io/work-day-scheduler/
 
 #### Acknowledgements
 Project assistance from Andrew Layendecker and Diego Struk Jaia during office hours. Referenced WDN Docs & W3 Schools on jQuery Methods. 
