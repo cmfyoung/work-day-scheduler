@@ -17,7 +17,7 @@ function timeLog () {
 var currentHour = dayjs().hour();
 $(".time-block").each(function () {
     var loggedHour = parseInt($(this).attr("id").split("hour")[1]);
-
+console.log("loggedHour: ", loggedHour, "currentHour: ", currentHour );
     if (loggedHour < currentHour) {
         $(this).addClass("past");
     } else if (loggedHour === currentHour) {
