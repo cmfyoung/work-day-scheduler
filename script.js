@@ -7,7 +7,7 @@ var currentTime = dayjs().format('hh:mm:ss a');
 // display current date and time 
 $("#currentDay").html(currentDate);
 $("#currentTime").html(currentTime);
-
+console.log("welcome")
 
 let timeBlock = $('.time-block');
 let saveButton = $('.saveBtn');
